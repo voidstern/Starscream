@@ -116,3 +116,4 @@ xcuserdata
 
 
 # End of https://www.gitignore.io/api/swift,swiftpm
+/.swiftpm
